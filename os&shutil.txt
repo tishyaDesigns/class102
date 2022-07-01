@@ -1,0 +1,9 @@
+1. os.system("date") - System Date
+2. os.mkdir("New") -Make New Folder-Include full path if you want it elsewhere.
+3. os.getcwd()- Get current Directory
+4. os.listdir() - Shows all files and folder in the current directory
+5. os.path.exists("path") - Check the existence of the file/folder
+6. os.path.splitext("path") -Splits path into root and extension
+			    - Returns Tuple data type(cant be modified and written with ())
+7. shutil.copy(source,destination)
+8. shutil.move(source,destination)
